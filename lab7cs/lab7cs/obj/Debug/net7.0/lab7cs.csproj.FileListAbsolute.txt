@@ -1,0 +1,15 @@
+/Users/mak/Projects/lab7cs/lab7cs/bin/Debug/net7.0/lab7cs
+/Users/mak/Projects/lab7cs/lab7cs/bin/Debug/net7.0/lab7cs.deps.json
+/Users/mak/Projects/lab7cs/lab7cs/bin/Debug/net7.0/lab7cs.runtimeconfig.json
+/Users/mak/Projects/lab7cs/lab7cs/bin/Debug/net7.0/lab7cs.dll
+/Users/mak/Projects/lab7cs/lab7cs/bin/Debug/net7.0/lab7cs.pdb
+/Users/mak/Projects/lab7cs/lab7cs/obj/Debug/net7.0/lab7cs.csproj.AssemblyReference.cache
+/Users/mak/Projects/lab7cs/lab7cs/obj/Debug/net7.0/lab7cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mak/Projects/lab7cs/lab7cs/obj/Debug/net7.0/lab7cs.AssemblyInfoInputs.cache
+/Users/mak/Projects/lab7cs/lab7cs/obj/Debug/net7.0/lab7cs.AssemblyInfo.cs
+/Users/mak/Projects/lab7cs/lab7cs/obj/Debug/net7.0/lab7cs.csproj.CoreCompileInputs.cache
+/Users/mak/Projects/lab7cs/lab7cs/obj/Debug/net7.0/lab7cs.dll
+/Users/mak/Projects/lab7cs/lab7cs/obj/Debug/net7.0/refint/lab7cs.dll
+/Users/mak/Projects/lab7cs/lab7cs/obj/Debug/net7.0/lab7cs.pdb
+/Users/mak/Projects/lab7cs/lab7cs/obj/Debug/net7.0/lab7cs.genruntimeconfig.cache
+/Users/mak/Projects/lab7cs/lab7cs/obj/Debug/net7.0/ref/lab7cs.dll
